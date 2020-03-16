@@ -4,3 +4,8 @@
 /Data/sample_submission.csv
 /Data/shops.csv
 /Data/test.csv
+/benchmark.csv
+/FutureSalesXGBoost.ipynb
+/simple_xgb.csv
+/train.csv
+/trainset_with_grid.csv
